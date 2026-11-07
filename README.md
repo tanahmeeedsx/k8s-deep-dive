@@ -1,7 +1,7 @@
- <h1 align="center">Kubernetes Deep Dive With Kind</h1>
+# Kubernetes Deep Dive With Kind
 
 ## Overview
-A hands-on repository for exploring Kubernetes in depth using Kind (Kubernetes in Docker), with practical labs and CKA exam preparation.
+A hands-on repository for exploring Kubernetes in depth using Kind, with practical labs and CKA exam preparation.
 
 ## Tech Stack
 - Kubernetes
